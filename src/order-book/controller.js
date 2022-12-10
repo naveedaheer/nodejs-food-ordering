@@ -14,7 +14,7 @@ const foodItems = [
   {
     id: 2,
     name: "Burger King",
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zFRuYZrR7fObTrM7pRszE0D67CoF84YVnA&usqp=CAU',
+    imageUrl: "https://recipes.timesofindia.com/thumb/83565509.cms?width=1200&height=900",
     price: 50,
     availableQty: 35,
     description: "Now serving all your favourite burgers in soft-n-fresh potato bun. The buns are specially selected to enhance the flavour of each bite.",
