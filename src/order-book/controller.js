@@ -24,7 +24,7 @@ const foodItems = [
     name: "Chicken Tikka",
     imageUrl: 'https://www.charbroil.com/media/ctm//T/a/Tandoori-Style_Grilled_Chicken_Tikka_Masala.jpg.jpeg',
     price: 10,
-    availableQty: 50,
+    availableQty: 0,
     description: "How to make chicken tikka kebabs · Place the chicken pieces into a bowl with yogurt, garlic, ginger, lemon juice, coriander, turmeric, cumin.",
   },
   {
@@ -41,7 +41,7 @@ const foodItems = [
     name: "Soup",
     imageUrl: 'https://www.allrecipes.com/thmb/pTGS0SZsSQK85sV_RQE_K6ZfoN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26460-quick-and-easy-chicken-noodle-soup-allrecipes-1x1-1-b88125437574471db3e114c40bc6928e.jpg',
     price: 10,
-    availableQty: 95,
+    availableQty: 102,
     description: "This easy chicken noodle soup recipe made with veggies and leftover chicken is warm, comforting.",
   }
 ]
